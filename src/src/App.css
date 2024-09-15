@@ -1,0 +1,44 @@
+.App {
+    font-family: Arial, sans-serif;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+  
+  input {
+    padding: 10px;
+    margin-right: 10px;
+  }
+  
+  button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #0056b3;
+  }
+  
+  .article {
+    border-bottom: 1px solid #ddd;
+    padding: 20px 0;
+  }
+  
+  h2 {
+    margin: 0 0 10px;
+  }
+  
+  a {
+    color: #007BFF;
+  }
+  
