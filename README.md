@@ -1,4 +1,5 @@
 ACONEWS
+
 ACONEWS is a responsive news web app powered by the GNews API, which delivers the latest news articles and allows users to search for specific topics. The app is built with React for the frontend, Express for the backend, and hosted on Firebase.
 
 Table of Contents
